@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe.config
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.exe
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\bin\Debug\HavaDurumu.pdb
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.Form1.resources
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.Properties.Resources.resources
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.exe
+C:\Users\lenovo\source\repos\HavaDurumu\HavaDurumu\obj\Debug\HavaDurumu.pdb
